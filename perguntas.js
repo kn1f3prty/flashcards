@@ -11,7 +11,7 @@ criaCartao (
     criaCartao (
     'Matemática',
     'Qual a fórmulada área de um triângulo equilátero?',
-    '\[ A = \frac{L^2 \sqrt{3}}{4}\].')
+    'A igual L ao quarado vezes a raiz quadrada de 3, tudo dividido por 4.')
     
     criaCartao (
     'Português',
@@ -31,7 +31,7 @@ criaCartao (
     criaCartao (
     'Física',
     'Qual é a fórmula para calcular a energia cinética de um objeto e qual é a unidade de medida?',
-    'A fórmula para calcular a energia cinética de um objeto é Ek=12mv2E_k = \frac{1}{2}mv^2Ek=21mv2, onde m é a massa do objeto e v é a sua velocidade. A unidade de medida é o Joule (J).')
+    'A fórmula para calcular a energia cinética de um objeto é Ek igual a 1/2 da massa vezes a velocidade ao quadrado, onde m é a massa do objeto e v é a sua velocidade. A unidade de medida é o Joule (J).')
     
     criaCartao (
     'Biologia',
