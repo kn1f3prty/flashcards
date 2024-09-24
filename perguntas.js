@@ -31,7 +31,7 @@ criaCartao (
     criaCartao (
     'Física',
     'Qual é a fórmula para calcular a energia cinética de um objeto e qual é a unidade de medida?',
-    'A fórmula para calcular a energia cinética de um objeto é Ek=12mv2E_k = \frac{1}{2}mv^2Ek​=21​mv2, onde mmm é a massa do objeto e vvv é a sua velocidade. A unidade de medida é o Joule (J).')
+    'A fórmula para calcular a energia cinética de um objeto é Ek=12mv2E_k = \frac{1}{2}mv^2Ek=21mv2, onde mmm é a massa do objeto e vvv é a sua velocidade. A unidade de medida é o Joule (J).')
     
     criaCartao (
     'Biologia',
