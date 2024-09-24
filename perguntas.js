@@ -11,9 +11,7 @@ criaCartao (
     criaCartao (
     'Matemática',
     'Qual a fórmulada área de um triângulo equilátero?',
-    '\[
-    A = \frac{L^2 \sqrt{3}}{4}
-    \].')
+    '\[ A = \frac{L^2 \sqrt{3}}{4}\].')
     
     criaCartao (
     'Português',
@@ -77,18 +75,18 @@ criaCartao (
     
     criaCartao (
     'Português',
-    'Qual é a diferença entre a função denotativa e a função conotativa da linguagem?'
+    'Qual é a diferença entre a função denotativa e a função conotativa da linguagem?',
     'A função denotativa foca na informação literal e objetiva. Já a função conotativa busca provocar emoções, sugestão ou uma interpretação mais subjetiva.')
     
     criaCartao (
     'Química',
-    'Como o benzeno é classificado?'
+    'Como o benzeno é classificado?',
     'O benzeno é classificado como fechado, aromático, insaturado, normal e homogêneo.')
     
     criaCartao (
     'História',
     'Em que ano aconteceu a revolução francesa?',
-    A revolução ocorreu de 1789 a 1799.')
+    'A revolução ocorreu de 1789 a 1799.')
     
     criaCartao (
     'História',
