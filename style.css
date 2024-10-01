@@ -58,3 +58,13 @@ height: 20rem;
     padding: 2rem;
     font-size: 1.4vw;
 }
+
+cartao-resposta p{
+    color: var(--cartao-verso);
+    font-weight: 700;
+}
+
+cartao-pergunta p{
+    color: var(--preto);
+    font-weight: 500;
+}
