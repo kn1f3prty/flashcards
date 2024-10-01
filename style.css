@@ -40,3 +40,14 @@ margin: 1rem;
     color: var(--branco);
     text-align: center;
 }
+
+.cartao-conteudo h3{
+    position: absolute;
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+    text-align: left;
+    margin: 0.6rem;
+    border-radius: 0.5rem;
+    font-size: 1vw;
+}
+
