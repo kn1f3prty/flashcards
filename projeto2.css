@@ -44,7 +44,7 @@ footer {
     transform: scale(1.02);
 }
 
-.caartao-resposta{
+.cartao-resposta{
     padding: 2rem;
     text-align: center;
     background-color: var(--resposta);
