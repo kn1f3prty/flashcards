@@ -5,6 +5,10 @@
     --resposta: #8bd0eb;
 }
 
+body{
+margin: 0;
+}
+
 header{
     background-color: var(--preto);
     display:flex;
